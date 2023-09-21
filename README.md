@@ -1,11 +1,7 @@
 ### Olá! Eu sou o Lucas Paixão 👋
 
-<p align="left">
 ![giphy](https://github.com/apaixav/apaixav/assets/140087622/b9cae5dd-18c4-455f-9ebf-ac0b66b04730)
 
-<br>
-<p align="right">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apaixav&layout=compact)
 
 <br>
 - 🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
@@ -18,8 +14,7 @@
 <br>
 
 <div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=victorpaliari&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpaliari&layout=compact&langs_count=16&theme=github_dark"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaixav&layout=compact"/>
 </div>
 
 <br>
