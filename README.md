@@ -23,6 +23,15 @@
   <a href="https://www.linkedin.com/in/lucasribeiropaixao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
 </div>
+<div align="right">
+-🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
+
+-💬 Me pergunte sobre **Qualquer coisa, acima de tudo adoro uma boa conversa!**
+
+-👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
+
+</div>
+
 <br>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <div style="display: inline_block" align="left">
@@ -41,14 +50,6 @@
   <img align="center" alt="Git" title="Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<div align="right">
--🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
-
--💬 Me pergunte sobre **Qualquer coisa, acima de tudo adoro uma boa conversa!**
-
--👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/brenonsc/Disque011)
-
-</div>
 
 
 
