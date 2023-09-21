@@ -21,7 +21,7 @@
 -🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
 <br>
 -💬 Me pergunte sobre **Qualquer coisa, acima de tudo adoro uma boa conversa!**
-
+-⚡ Curiosidade: Eu consigo dizer as capitais de quase todos os países do mundo
 -👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/mateusSiqueira2004/DB-PIGeneration-DER.git)
 
 </div>
