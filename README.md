@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-<img align="right" alt="GIF" height="300em" src="https://github.com/apaixav/apaixav/assets/140087622/b9cae5dd-18c4-455f-9ebf-ac0b66b04730" />
+<img align="right" alt="GIF" height="350em" src="https://github.com/apaixav/apaixav/assets/140087622/b9cae5dd-18c4-455f-9ebf-ac0b66b04730" />
 
 
 </div>
@@ -13,7 +13,7 @@
 
 
 <p align="left">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaixav&layout=compact&theme=monokai"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apaixav&layout=compact&theme=bear"/>
 </p>
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
