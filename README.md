@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-<img align="right" alt="GIF" height="350em" src="https://github.com/apaixav/apaixav/assets/140087622/b9cae5dd-18c4-455f-9ebf-ac0b66b04730" />
+<img align="right" alt="GIF" height="320em" src="https://github.com/apaixav/apaixav/assets/140087622/b9cae5dd-18c4-455f-9ebf-ac0b66b04730" />
 
 
 </div>
