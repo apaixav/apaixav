@@ -19,7 +19,7 @@
 
 <div align="left">
   
--👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/mateusSiqueira2004/DB-PIGeneration-DER.git)
+-👯 Colaborando com [Projeto Integrador - Generation Brasil](https://github.com/Projeto-Integrador-FelizMente)
   
 -🌱 Atualmente estudando **.NET, REACT & SQL SERVER**
 
